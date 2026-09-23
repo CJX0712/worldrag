@@ -1,5 +1,12 @@
 # WorldRAG
 
+<p align="center">
+  <a href="https://github.com/CJX0712/worldrag-ews7n/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/worldrag-ews7n/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/worldrag-ews7n/releases"><img src="https://img.shields.io/github/v/release/CJX0712/worldrag-ews7n?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/worldrag-ews7n/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/worldrag-ews7n" alt="license"></a>
+  <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
+</p>
+
 端到端混合检索 RAG 知识库问答系统。双路召回（BM25 + 向量）→ RRF 融合 → 可选交叉编码器重排 → LLM 生成 → 引用溯源，全链路可离线验证、可量化评测、可在干净环境一键复现。
 
 作者：晨星 · 协议：MIT
