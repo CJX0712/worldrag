@@ -1,0 +1,8 @@
+{"query": "年度套餐购买后多少天内可以全额退款？", "relevant_doc_ids": ["refund-policy"], "expected_keywords": ["十四"]}
+{"query": "退款申请审核需要多长时间？", "relevant_doc_ids": ["refund-policy"], "expected_keywords": ["三个工作日"]}
+{"query": "免费版API每分钟可以请求多少次？", "relevant_doc_ids": ["api-limits"], "expected_keywords": ["六十"]}
+{"query": "API超出限流后返回什么状态码？", "relevant_doc_ids": ["api-limits"], "expected_keywords": ["429"]}
+{"query": "私有化部署最低需要多少内存？", "relevant_doc_ids": ["deployment"], "expected_keywords": ["三十二"]}
+{"query": "健康检查端点的路径是什么？", "relevant_doc_ids": ["deployment"], "expected_keywords": ["/healthz"]}
+{"query": "密码连续错误几次会锁定账户？", "relevant_doc_ids": ["security"], "expected_keywords": ["五次"]}
+{"query": "审计日志保留多少天？", "relevant_doc_ids": ["security"], "expected_keywords": ["一百八十"]}
