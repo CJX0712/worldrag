@@ -1,9 +1,9 @@
 # WorldRAG
 
 <p align="center">
-  <a href="https://github.com/CJX0712/worldrag-ews7n/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/worldrag-ews7n/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
-  <a href="https://github.com/CJX0712/worldrag-ews7n/releases"><img src="https://img.shields.io/github/v/release/CJX0712/worldrag-ews7n?sort=semver" alt="release"></a>
-  <a href="https://github.com/CJX0712/worldrag-ews7n/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/worldrag-ews7n" alt="license"></a>
+  <a href="https://github.com/CJX0712/worldrag/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/worldrag/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/worldrag/releases"><img src="https://img.shields.io/github/v/release/CJX0712/worldrag?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/worldrag/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/worldrag" alt="license"></a>
   <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
 </p>
 
